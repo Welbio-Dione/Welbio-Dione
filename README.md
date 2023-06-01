@@ -1,4 +1,5 @@
-## Bem-vindo(a) ao perfil
+## Olá seja bem-vindo ao meu perfil!
+Atualmente me especializando em desenvolvivento Frontend, busco esperiências para evoluir e ser cada vez melhor naquilo em que faço
 
  <div>
    <a href="https://github.com/Welbio-Dione">
@@ -14,7 +15,7 @@
  
  <br>
  
-  ### Para entrar em contato, siga os links abaixo!
+  ### 
  
 <div> 
   
