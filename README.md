@@ -1,6 +1,6 @@
 ## Olá seja bem-vindo ao meu perfil!
 Atualmente me especializando em desenvolvivento Frontend, 
-busco esperiências para evoluir e ser cada vez melhor naquilo em que faço
+busco esperiências para evoluir e ser cada vez melhor em que faço
 
  <div>
    <a href="https://github.com/Welbio-Dione">
