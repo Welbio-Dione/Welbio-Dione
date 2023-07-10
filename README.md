@@ -36,7 +36,7 @@ Meu nome é welbio tenho 19 anos. Estou cursando Análise e Desenvolvimento de S
 - [ ] Programação Assíncrona JS
 - [ ] Trasintion e Animation CSS
 - [ ] Prettier e ESlint
-- [ ] Tailwind CSS
+- [x] Tailwind CSS
 - [ ] React JS/TS
 - [ ] TipeScript
 - [ ] Next js
