@@ -48,7 +48,7 @@ Meu nome é welbio tenho 19 anos. Estou cursando Análise e Desenvolvimento de S
 
 ##
 
-Sou proativo e busco atualizar meus conhecimentos, gosto de trabalhar em times e nao tenho receio do que não conheço, gostaria de uma oportunidade para evoluir minha carreira e agregar a empresa na qual eu prestarei serviço.
+Sou proativo e busco atualizar meus conhecimentos, gosto de trabalhar em times e não tenho receio em aprender, gostaria de uma oportunidade para evoluir minha carreira e agregar a empresa na qual eu prestarei serviço.
 
   
   <a href="https://www.instagram.com/welbio_dione/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
