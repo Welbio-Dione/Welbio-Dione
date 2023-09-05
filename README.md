@@ -14,40 +14,6 @@ Meu nome é welbio tenho 19 anos. Estou cursando Análise e Desenvolvimento de S
  
   ![Snake animation](https://github.com/Welbio-Dione/Welbio-Dione/blob/output/github-contribution-grid-snake.svg)
   
-### Tecnologias que eu domino:
-- HTML
-  - Semântica
-  - Acessibilidade
-  - SEO
-- CSS
-  - Seletores
-  - Responsividade
-  - Display Flex
-- JavaScript
-  - Fundamentos da linguagem
-  - Lógica
-  - Manipulação do DOM
-- Git e GitHub
-  - Git flow
-##
-### O que eu quero estudar:
-
-- [ ] Programação Orientada a Objetos JS
-- [ ] Programação Assíncrona JS
-- [ ] Trasintion e Animation CSS
-- [ ] Prettier e ESlint
-- [x] Tailwind CSS
-- [ ] React JS/TS
-- [ ] TipeScript
-- [ ] Next js
-- [ ] UX e UI
-- [ ] Vue js
-- [ ] JSON
-- [ ] Jest
-      
-
-##
-
 Sou proativo e busco atualizar meus conhecimentos, gosto de trabalhar em times e não tenho receio em aprender, gostaria de uma oportunidade para evoluir minha carreira e agregar a empresa na qual eu prestarei serviço.
 
   
